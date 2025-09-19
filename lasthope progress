@@ -1,0 +1,30 @@
+progres update 19 sep 2025
+
+- menambahkan bahan proses uranium
+          - garam 70
+          - air mineral 100
+          - bottol 10
+          - pakaian 50
+- menambahkan fitur lompat dari ketinggian auto patah tulang kaki
+- menambahkan oprasi khusus medis
+                  - cmd /foprasi 
+                  - hanya bisa di akses rank 10-12
+                  - menampilkan /foprasi ke /fhelp medis
+- menambahkan anti cbug
+- menambahkan logs weapon database
+                                 - family
+                                 - house
+- menambahkan asuransi di sf
+- mengubah akses cmd admin /kickall - /restart rank 7
+- mengubah akses cmd admin /achangename rank 4
+- mengubah /dokterlokal atau /medis harus ke RS 
+     - (jika tidak ke rs tidak bisa di gunakan)
+- mengubah akses brankas family rank 4-6
+- mengubah /admins cuma menampilkan rank 1-4
+- mengubah asks/reports jawaban admin bisa di lihat admin lain
+- mengubah limit brankas penyimpanan weapon 3000 
+            - brankas weapon family 3000
+            - brankas weapon rumah 2000
+- menghapus crafting senjata TEC9 dibm mafia
+- menambahkan crafting slc 
+- memisahkan crafting vest/kevlar 
